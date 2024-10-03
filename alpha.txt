@@ -1,0 +1,1 @@
+lets u remove the changes made in the particular commit, instad of hard resetting everything to that dave point.
